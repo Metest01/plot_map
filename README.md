@@ -1,1 +1,1 @@
-Plot sea ice concentration from ERA5 dataset
+Plot global significant wave height (Hs) from ERA5 dataset.
